@@ -13,13 +13,13 @@ I don't just study AI — I ship it. Here are my production-grade projects:
 A 3-agent agentic AI pipeline built with Python + Google Gemini API.  
 Agent 1 extracts action items → Agent 2 drafts stakeholder emails → Agent 3 scores meeting quality.  
 Zero manual effort. End-to-end LLM orchestration.  
-🔗 [Live Demo:-  https://meet-mind.streamlit.app/](#) 
+🔗 [https://meet-mind.streamlit.app/](#) 
 
 ### 🔍 [Customer Failure Detector](https://github.com/Rohittt29/Customer-Failure-Detector)
 Enterprise AI platform that analyzes customer support transcripts using structured LLM pipelines.  
 Detects failure points, root causes, emotional signals, and ideal agent responses.  
 Built with Python · Streamlit · Google Gemini API · JSON extraction pipelines.  
-🔗 [Live Demo:- https://customer-failure-detector.streamlit.app ](#) 
+🔗 [https://customer-failure-detector.streamlit.app ](#) 
 
 ### 📄 AI Resume Analyzer & Job Recommender
 NLP pipeline that extracts skills from resumes and matches them to job descriptions.  
