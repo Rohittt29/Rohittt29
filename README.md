@@ -56,9 +56,6 @@ on Google Cloud Platform (Vertex AI, Cloud Run, BigQuery, Firebase).
 ## 🧩 DSA Grind
 
 Prepping for SDE interviews — working through the [Striver A2Z Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) daily, solving in Java.
-
-📍 **Current section:** Arrays
-
 ---
 
 ## 📜 Certifications
